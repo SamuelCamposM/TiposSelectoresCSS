@@ -1,0 +1,3 @@
+p:not(.texto, .oferta, .descripcion) {
+  color: red;
+}

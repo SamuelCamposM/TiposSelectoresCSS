@@ -1,0 +1,7 @@
+a[href$=".com"] { 
+    color: red;
+}
+
+input[id="telefono"] { 
+    border: 5px solid red;
+}
